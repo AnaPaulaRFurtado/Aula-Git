@@ -1,2 +1,3 @@
 # Aula-Git
- Criar o primeiro repositório
+ Criar o primeiro repositório no GitHub
+
